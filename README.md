@@ -18,6 +18,8 @@
 - ⚡ Reflection **I have gained a lot of knowledge from the industrial talk for UTMDigital as well as the System Development at Credence. The industrial visit at Indah Water was very eye-opening as I understood the usage of technology in maintaining a recycle water facility into drinkable water. PC Assembly assignment allows me to use real-world skills to operate on my own computer to clean and repair it. Finally, the design thinking assignments have given me experience to work in a team and understand empathy, which is surprisingly important in implementing into a design of a solution. It has increased my knowledge in the fields of Software Engineering, especially behind the scenes of how software is planned, developed, and deployed.**
 
 
+Design thinking:  https://github.com/Mahmoud-Balawee/Design-Thinking/blob/main/DESIGN%20THINKING_GROUP%203%20(TIS).pdf
+
 <p align="left">
 </p>
 
