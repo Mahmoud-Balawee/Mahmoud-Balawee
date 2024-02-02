@@ -32,7 +32,7 @@
   - **Greenday Certification**
 
   # 📄 Know about my experience
-  - **I have been making simple programming projects since 2018**
+  - **I have been making simple projects using a variety of programming languages since 2018**
 
   # TIS Assignments:
 
