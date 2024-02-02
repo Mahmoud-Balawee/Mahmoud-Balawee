@@ -24,7 +24,9 @@
 - **Esports Brawlhalla Club Member**
 
 # Certification
-- **IELTS English proficiency test 7.0 ICDL Certification for microsoft**
+- **IELTS** English proficiency test 7.0
+  
+- **ICDL** Certification for microsoft
 
   # Honors & Awards
   - **Greenday Certification**
