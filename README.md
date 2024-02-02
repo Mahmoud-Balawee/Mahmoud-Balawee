@@ -16,7 +16,9 @@
 - Qbasic: Beginner
 
 # Education
-- **Bachelor Degree in Software Engineer: Universiti Teknologi Malaysia (2023 - Present) Diploma Graduate in Al Nahdia National School(boys) (2015-2022)**
+- **Bachelor Degree in Software Engineer: Universiti Teknologi Malaysia (2023 - Present)
+  
+- Diploma Graduate in Al Nahdia National School(boys) (2015-2022)**
 
 # Position
 - **Esports Brawlhalla Club Member**
