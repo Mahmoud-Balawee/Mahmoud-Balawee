@@ -18,13 +18,13 @@
 # Education
 - **Bachelor Degree** in Software Engineer: Universiti Teknologi Malaysia (2023 - Present)
   
-- **Diploma Graduate** in Al Nahda National School(boys) (2015-2022)
+- **Diploma Graduate** in Al Nahda National School (boys) (2015-2022)
 
 # Position
 - **Esports Brawlhalla Club Member**
 
 # Certification
-- **IELTS** English proficiency test 7.0
+- **IELTS** English proficiency test - 7.0
   
 - **ICDL** Certification for microsoft
 
