@@ -32,7 +32,7 @@
   - **Greenday Certification**
 
   # 📄 Know about my experience
-  - [I have been playing brawlhalla for over 3000 hours with 3 years of experience]
+  - **I have been making simple programming projects since 2018**
 
   # TIS Assignments:
 
